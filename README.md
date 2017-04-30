@@ -1,2 +1,2 @@
 # Numerical-Methods
-codes i am working on.
+Mathematical optimization code accumulation for BINF 695
